@@ -19,7 +19,6 @@ This project explores survival data from clinical trials using established stati
 
 ## 📁 Project Files
 - `clinical trials.pdf` – Complete report including methodology, code output, and results
-- *(Optional: Add R script or data file if you plan to upload them)*
 
 ## 📌 Key Insights
 - Several clinical variables showed significant impact on patient survival
