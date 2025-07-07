@@ -1,4 +1,4 @@
-#  Clinical Trials Survival Analysis
+#  Statistical Methods in Clinical Trials and Survival Analysis
 
 ##  Project Overview
 This project explores survival data from clinical trials using established statistical methodologies. The goal is to model survival times and assess which clinical variables influence patient outcomes, applying both non-parametric and semi-parametric approaches.
@@ -27,8 +27,5 @@ This project explores survival data from clinical trials using established stati
 - **Log-Rank Test**: Comparing survival distributions
 - **Cox Proportional Hazards Model**: Estimating covariate effects on survival
 - **Diagnostics**: Schoenfeld residuals & proportional hazards assumption checking
-
-##  Project Files
-- `clinical trials.pdf` – Complete report including methodology, code output, and results
 
  *This project was developed as part of academic coursework at AUEB – MSc in Applied Statistics.*
